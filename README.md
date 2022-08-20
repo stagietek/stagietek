@@ -6,3 +6,6 @@
 Hello-World!
 
 Im Stagietek & I am a freelance Web Designer, Brand Asset Manager & Buisness Consultant. I specialise in Microsoft Products & Wordpress.
+
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
